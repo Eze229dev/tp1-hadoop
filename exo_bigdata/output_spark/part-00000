@@ -1,0 +1,7 @@
+('Cluster', 800000)
+('Hadoop', 1600000)
+('DataLake', 800000)
+('Spark', 800000)
+('HDFS', 1600000)
+('BigData', 800000)
+('Docker', 800000)

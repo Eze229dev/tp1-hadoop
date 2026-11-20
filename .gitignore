@@ -1,0 +1,5 @@
+exo_bigdata/gros_fichier.txt
+exo_bigdata/hadoop-3.3.6/
+wordcount/target/
+*.jar
+*.tar.gz

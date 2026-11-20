@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "WordCount",
+            "request": "launch",
+            "mainClass": "hadoop.mapreduce.tp1.WordCount",
+            "projectName": "wordcount",
+            "args": [
+                "wordcount/src/main/resources/input/file.txt",
+                "wordcount/src/main/resources/output"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+Batch	800000
+BigData	800000
+Cluster	800000
+DataLake	800000
+Docker	800000
+HDFS	1600000
+Hadoop	1600000
+Python	1600000
+Spark	800000
+Streaming	2400000
